@@ -24,10 +24,11 @@ location.
 - Firebase Cloud Storage
 - Gifted Chat library
 
-## Setting up Expo
+## Installation
 
-- 'npm install expo-cli --global'
+- run 'npm install expo-cli --global'
 - Download 'Expo App' for your phone.
+- install dependencies, run 'npm install'
 
 ## Run the app
 
